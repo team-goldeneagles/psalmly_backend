@@ -1,2 +1,2 @@
 # psalmly_backend
-Backend for Psalmly app
+Frontend for Psalmly app
